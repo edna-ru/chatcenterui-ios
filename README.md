@@ -4,8 +4,11 @@ Swift Package для ChatCenterUI SDK
 
 https://edna.ru/
 
-По вопросам продаж/Sales:<br>
+Документация:<br>
+https://docs-sdk.edna.ru/ios/intro
+
+По вопросам продаж:<br>
 sales@edna.ru
 
-Техническая поддержка/Tech support:<br>
+Техническая поддержка:<br>
 support@edna.ru
