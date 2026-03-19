@@ -19,8 +19,8 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
 		.binaryTarget(
 			name: "ChatCenterUI",
-			url: "https://maven-pub.edna.ru/repository/maven-releases/edna/chatcenter/ui/ios/5.7.1.zip",
-			checksum: "b0105f57ab1a657e8d73aee4c166b5b2dd2eadec905b74de237bad61aac18bfe"
+			url: "https://maven-pub.edna.ru/repository/maven-releases/edna/chatcenter/ui/ios/5.7.2.zip",
+			checksum: "471f8bd250f6a631d33407f9b557436af66377f0074462e989498da4d1a91bc1"
 		),
     ]
 )
