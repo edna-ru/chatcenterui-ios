@@ -20,7 +20,7 @@ let package = Package(
 		.binaryTarget(
 			name: "ChatCenterUI",
 			url: "https://maven-pub.edna.ru/repository/maven-releases/edna/chatcenter/ui/ios/5.7.1.zip",
-			checksum: "84406592b9dda29e7480e7ac9d53d007f8a8ca957f08fc6ff33c411cc8f7e6e9"
+			checksum: "b0105f57ab1a657e8d73aee4c166b5b2dd2eadec905b74de237bad61aac18bfe"
 		),
     ]
 )
